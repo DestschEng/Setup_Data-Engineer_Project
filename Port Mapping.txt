@@ -1,0 +1,9 @@
+Port Mapping Summary
+3001: de_dagster_dagit
+5432: de_psql
+7077: spark-master
+8081 (8080 on host): spark-master
+9000: minio
+9001: minio
+8888: jupyter
+8501: streamlit
